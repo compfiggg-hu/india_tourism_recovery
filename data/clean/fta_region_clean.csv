@@ -1,0 +1,67 @@
+region,year,foreign_tourists
+South Asia,2018,3104422
+South Asia,2019,3375819
+South Asia,2020,750061
+South Asia,2021,398722
+South Asia,2022,1723016
+South Asia,2023,2762763
+Western Europe,2018,2243635
+Western Europe,2019,2178441
+Western Europe,2020,624615
+Western Europe,2021,334850
+Western Europe,2022,1300210
+Western Europe,2023,1942098
+North America,2018,1807718
+North America,2019,1863892
+North America,2020,516960
+North America,2021,510299
+North America,2022,1692659
+North America,2023,2077440
+South East Asia,2018,887088
+South East Asia,2019,930540
+South East Asia,2020,231622
+South East Asia,2021,38474
+South East Asia,2022,412780
+South East Asia,2023,764230
+East Asia,2018,724568
+East Asia,2019,782225
+East Asia,2020,130383
+East Asia,2021,33762
+East Asia,2022,136852
+East Asia,2023,311923
+Eastern Europe,2018,466049
+Eastern Europe,2019,456481
+Eastern Europe,2020,168145
+Eastern Europe,2021,43114
+Eastern Europe,2022,187964
+Eastern Europe,2023,352105
+Australasia,2018,412628
+Australasia,2019,438939
+Australasia,2020,105047
+Australasia,2021,38865
+Australasia,2022,435674
+Australasia,2023,534783
+West Asia,2018,449548
+West Asia,2019,431943
+West Asia,2020,97651
+West Asia,2021,52174
+West Asia,2022,260346
+West Asia,2023,351698
+Africa,2018,351198
+Africa,2019,362308
+Africa,2020,90296
+Africa,2021,68914
+Africa,2022,234483
+Africa,2023,330503
+C&S America,2018,101085
+C&S America,2019,98926
+C&S America,2020,26968
+C&S America,2021,6798
+C&S America,2022,46157
+C&S America,2023,82329
+Not Classified elsewhere,2018,10037
+Not Classified elsewhere,2019,10841
+Not Classified elsewhere,2020,3018
+Not Classified elsewhere,2021,1142
+Not Classified elsewhere,2022,7326
+Not Classified elsewhere,2023,11056
