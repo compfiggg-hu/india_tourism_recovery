@@ -69,4 +69,5 @@ Raw Ministry of Tourism CSVs
 4. **National Tourism Trends: Domestic vs Foreign Arrivals** — line chart 2017–2023 showing COVID dip and recovery
 
 ## Contact
-Pratham | Data Analytics Portfolio | M.Com Accounting & Finance | CA Inter
+Pratham | Data Analytics Portfolio | M.Com Accounting & Finance 
+
